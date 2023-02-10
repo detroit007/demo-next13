@@ -8,7 +8,8 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <main>
-        <Hello/>
+        {/* <Hello/> */}
+        New Page
         {/* <Link href={"/"}>Go Back.</Link>
         <Link href={"/second"}>Go to third Page</Link> */}
     </main>
