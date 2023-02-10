@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main>
         {/* <Hello/> */}
-        New Page
+        New Page on Home
         {/* <Link href={"/"}>Go Back.</Link>
         <Link href={"/second"}>Go to third Page</Link> */}
     </main>
